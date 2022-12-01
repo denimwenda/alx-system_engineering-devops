@@ -1,1 +1,1 @@
-prints all the groups
+changes the owner
