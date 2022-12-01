@@ -1,1 +1,1 @@
-betty in my first directory
+shell permission
