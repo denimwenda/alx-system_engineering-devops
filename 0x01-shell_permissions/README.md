@@ -1,1 +1,1 @@
-adds execution permission andgroup owner and the users
+sets the permission
