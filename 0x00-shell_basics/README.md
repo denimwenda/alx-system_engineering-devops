@@ -1,1 +1,1 @@
-copies all HTML files
+Create symbolic link
