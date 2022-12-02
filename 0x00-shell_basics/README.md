@@ -1,1 +1,1 @@
-moves all files
+deletes all files
