@@ -1,1 +1,1 @@
-adds execute permission to all subdirectories
+adds execute permission to all subdirectories of the current directory for owner,group owner and other users
