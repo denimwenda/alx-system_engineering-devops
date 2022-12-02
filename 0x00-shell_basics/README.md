@@ -1,1 +1,1 @@
-changes the working directory
+prints the type of file
