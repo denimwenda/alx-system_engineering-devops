@@ -1,1 +1,1 @@
-deletes all files
+creates the directories
