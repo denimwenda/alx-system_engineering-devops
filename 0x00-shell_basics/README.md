@@ -1,1 +1,1 @@
-creates the directories
+lists all the files and directories
