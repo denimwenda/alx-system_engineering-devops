@@ -1,1 +1,1 @@
-displays
+takes
