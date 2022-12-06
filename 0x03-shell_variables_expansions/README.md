@@ -1,1 +1,1 @@
-prints
+displays
