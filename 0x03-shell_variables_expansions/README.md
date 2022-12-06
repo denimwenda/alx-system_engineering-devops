@@ -1,1 +1,1 @@
-prints a number
+prints
